@@ -1,5 +1,5 @@
 # 内容：direct
 # 数量：3条
-DOMAIN-KEYWORD,limbuscompany
-DOMAIM-KEYWORD,game-gakuen-idolmaster
-DOMAIM-KEYWORD,muvluv-girls-garden
+[DIRECT, "[]DOMAIN-KEYWORD,limbuscompany"]
+[DIRECT, "[]DOMAIM-KEYWORD,game-gakuen-idolmaster"]
+[DIRECT, "[]DOMAIM-KEYWORD,muvluv-girls-garden"]
